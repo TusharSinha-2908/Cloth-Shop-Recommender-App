@@ -1,4 +1,4 @@
-# Project #2
+# Cloth Shop Recommender App
 
 Group - A
 
